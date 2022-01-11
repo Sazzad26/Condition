@@ -1,2 +1,2 @@
 # Condition
-Check whether a character is alphabet or not
+Here I upolide basic conditional problem
